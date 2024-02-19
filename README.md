@@ -11,3 +11,5 @@ In this paper, we adopt two data preprocessing method (two feature fusion method
 2. 2D mapping method: We map all the samples onto the 2D images, according to their positional coordinates. Then we create 11 channels for this 2D images, with these channels recording the corresponding features of boids.
 
 Simple machine learning classfiers are used for classifications.
+
+Read the powerpoint and paper for detailed information.
